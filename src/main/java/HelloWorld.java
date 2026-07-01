@@ -16,7 +16,6 @@ public class HelloWorld {
 
     public void notCovered() {
         System.out.println("This method is not covered by unit tests");
-        system.out.println("Welcome to Devops Class");
     }
 
 
