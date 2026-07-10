@@ -1,4 +1,4 @@
-# SonarQube Basic Maven Example111
+# SonarQube Basic Maven Example11
 
 This simple Maven project is importing JaCoCo's coverage report.
 <br /><br />
