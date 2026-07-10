@@ -3,7 +3,7 @@
 This simple Maven project is importing JaCoCo's coverage report.
 <br /><br />
 
-## Usage
+#### Usage 
 
 * Download SonarQube which matches with your Java version from [here](https://www.sonarqube.org/downloads/)
 
